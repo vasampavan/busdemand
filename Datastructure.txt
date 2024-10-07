@@ -1,0 +1,31 @@
+IEEE Transactions on Intelligent Transportation Systems on Deep Learning,Volume:24,Issue:5,Issue Date:May.2023
+
+
+Predicting Hourly Boarding Demand of Bus Passengers Using Imbalanced Records From Smart Cards A Deep Learning Approach
+
+
+Boarding behaviour prediction, Smart-card, Bus, Data imbalance issue, Deep generative adversarial network, Deep neural network.
+
+
+Predicting_Hourly_Boarding_Demand
+
+
+predicting_hourly_boarding_demand
+
+
+prediction_bus_boarding
+
+
+
+Fid	
+TripID	
+RouteID	
+StopID	
+StopName	
+WeekBeginning	
+NumberOfBoardings	
+Prediction
+
+
+
+

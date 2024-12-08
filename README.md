@@ -78,7 +78,7 @@ Preview:
 
 ![image](https://github.com/user-attachments/assets/acaee9c4-7c21-4ca2-a751-9a096d10580e)
 
-![image](https://github.com/user-attachments/assets/34bf4ee4-cce0-4087-801b-5988395172ef)
+
 
 ![image](https://github.com/user-attachments/assets/22f03139-088b-41c0-b7da-aadd7263dbb4)
 
